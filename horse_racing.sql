@@ -42,7 +42,7 @@ CREATE TABLE `horse_info` (
 --
 
 INSERT INTO `horse_info` (`name`, `color`, `lvl`, `xp`, `speed`, `iq`) VALUES
-('PH', 'White', 56, 1, 1, 1);
+('PH', 'White', 1, 0, 1, 1);
 
 -- --------------------------------------------------------
 

@@ -20,7 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `horse_racing`
 --
-
+CREATE DATABASE `horse_racing`;
+USE `horse_racing`;
 -- --------------------------------------------------------
 
 --
